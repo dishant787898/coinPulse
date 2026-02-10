@@ -28,6 +28,7 @@ const Header = () => {
 
           <p>Search Modal</p>
 
+
           <Link
             href="/coins"
             className={cn('nav-link', {
