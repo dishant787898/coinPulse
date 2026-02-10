@@ -6,7 +6,6 @@ import { cn } from "@/lib/utils";
 
 const Header = () => {
   const pathname = usePathname();
-
   return (
     <header>
       <div className="main-container inner">
